@@ -11,7 +11,7 @@ file.close();
 }
 
 
-/*
+
 reading from file
 int main(){
     fstream file ("hello.text");
@@ -35,4 +35,3 @@ string line
 getline(file, line)
 cout << file, line
 
-*/
